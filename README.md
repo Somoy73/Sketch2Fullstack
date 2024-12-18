@@ -7,7 +7,7 @@ We started working on the paper back during 2020, when GPT-3 was yet to shake th
 
 In our previous work the integration of the different aspects (frontend web pages, database and class diagram  and their respective datasets) were not properly disclosed.
 
-One other purpose of this repo is to have a proper directory containing all the necessary codes, datasets, and documents of the research project and also to build upon it.
+One other purpose of this repo is to have a proper directory containing all the necessary codes, datasets, and documents of the research project and also to allow future research to build upon it.
 
 Associated Repos (Our Own):
 - [Frontend UI Detection](https://github.com/Somoy73/Frontend-UI-Element-Detection-and-Classification)
